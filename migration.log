@@ -1,0 +1,17 @@
+4/10 15:04:55.382  ==================================================
+4/10 15:04:55.382  Migration started
+4/10 15:04:55.382  --------------------------------------------------
+4/10 15:05:08.842  ==================================================
+4/10 15:05:08.842  Migration started
+4/10 15:05:08.842  --------------------------------------------------
+4/10 15:05:09.958  CreateFolder "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone"
+4/10 15:05:09.958  CreateFolder "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\Scenario"
+4/10 15:05:09.958  Move "D:\Warcraft III 1.28.5 JN\Maps\FrozenThrone\Scenario\(10)Skibi_sCastleTD.w3x" to "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\Scenario\(10)Skibi_sCastleTD.w3x"
+4/10 15:05:09.958  Move "D:\Warcraft III 1.28.5 JN\Maps\FrozenThrone\(6)Demon_sCrossing.w3x" to "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\(6)Demon_sCrossing.w3x"
+4/10 15:05:09.958  Move "D:\Warcraft III 1.28.5 JN\Maps\FrozenThrone\(8)Mur_gulOasis.w3x" to "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\(8)Mur_gulOasis.w3x"
+4/10 15:05:10.305  CreateFolder "C:\Users\ADMIN\Documents\Warcraft III\Maps\FrozenThrone"
+4/10 15:05:10.305  Copy "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\(6)Demon_sCrossing.w3x" to "C:\Users\ADMIN\Documents\Warcraft III\Maps\FrozenThrone\(6)Demon_sCrossing.w3x"
+4/10 15:05:10.305  CreateFolder "C:\Users\ADMIN\Documents\Warcraft III\Maps\FrozenThrone\Scenario"
+4/10 15:05:10.305  Copy "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\Scenario\(10)Skibi_sCastleTD.w3x" to "C:\Users\ADMIN\Documents\Warcraft III\Maps\FrozenThrone\Scenario\(10)Skibi_sCastleTD.w3x"
+4/10 15:05:10.305  Copy "C:\Users\Public\Documents\Warcraft III\Maps\FrozenThrone\(8)Mur_gulOasis.w3x" to "C:\Users\ADMIN\Documents\Warcraft III\Maps\FrozenThrone\(8)Mur_gulOasis.w3x"
+4/10 15:05:10.305  Migration completed successfully.
